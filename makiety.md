@@ -12,7 +12,9 @@ Chat pyta, którą część oferty user chce przejrzeć. Listuje
 ```sh
 Zadaszenia, Tarasy, Schody, Restauracje, Sypialnie, Garderoby, Meble, Kuchnie.
 ```
+
 /<Opis widoku>
+
 ## Interakcja z czatem, rozmowa z nim o opcji
 
 <Opis widoku>

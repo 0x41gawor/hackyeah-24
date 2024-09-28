@@ -13,3 +13,7 @@
 ## Dobranie koloru
 
 ![](img/logo6.png)
+
+## Prostsze
+
+![](img/logo7.png)
