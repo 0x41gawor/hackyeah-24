@@ -14,16 +14,21 @@ Zadaszenia, Tarasy, Schody, Restauracje, Sypialnie, Garderoby, Meble, Kuchnie.
 ```
 /<Opis widoku>
 ## Interakcja z czatem, rozmowa z nim o opcji
+
 <Opis widoku>
+
 User nie chce tego, pyta się co oznacza wcześniej zaproponowana opcja "Zostaw numer telefonu".
 
 Agent odpowiada, że można w ten sposób skorzystać z darmowej wyceny. Firma stolarska oddzwoni na pozostawiony w formularzu numer telefonu.
+
 </Opis widoku>
 
 ## Wejście na strone Hackyeah.
 
 https://hackyeah.pl/ 
+
 <Opis widoku>
+
 W czacie niech będzie:
 
 Info:
@@ -36,12 +41,18 @@ Akcje do wykonania na stronie:
 - Rejestracja
 - Przegląd zadań 
 - Przegląd sponsorów i partnerów
+
 </Opis widoku>
 
 ## Kliknięcie opcji "ludzika"
-Na stronie Hackyeah, zrobienie takiego dużego czatu itp. (Linh wie xd)
+
+Na stronie Hackyeah, zrobienie takiego dużego czatu itp. (Linh wie ocb xd)
 
 # Landing page Wsparcio
+
+url w przeglądarce to  `www.wsparcio.pl/home`
+
+Duża pusta strona z inputem na środku. Hint w nim "tu wklej url".
 
 Tu po prostu wklejamy URL (pokazowo niech to będzie 'olx.pl').
 
@@ -61,6 +72,16 @@ Możliwe akcje:
 User promputuje chatbot tekstem: zaloguj się przy loginem "marek123" oraz hasłem "hasło123". Następnie zmień hasło na "hasło456".
 
 Chatbot odpowiada "Wykonano, hasło dla Twojego konta zostało zmienione.
+
+# Extension
+Potrzebujemy też zaprojektować taki widok jak np. ma extension small-pdf.
+
+![](img/5.png)
+
+My tu głównie będziemy mieć opcje/ustawienia. Jedyna jaka przychodzi mi do głowy to ustawienie motywu. Dodatkowo potrzebujemy też odnośnika do strony głównej Wsparcio.
+
+# logo 
+![](img/logo.png)
 
 
 
