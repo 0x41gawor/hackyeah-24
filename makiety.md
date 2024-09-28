@@ -83,7 +83,7 @@ Potrzebujemy też zaprojektować taki widok jak np. ma extension small-pdf.
 My tu głównie będziemy mieć opcje/ustawienia. Jedyna jaka przychodzi mi do głowy to ustawienie motywu. Dodatkowo potrzebujemy też odnośnika do strony głównej Wsparcio.
 
 # logo 
-![](img/logo.png)
+![](img/logo7.png)
 
 
 
