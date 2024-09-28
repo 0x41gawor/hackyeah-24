@@ -41,7 +41,29 @@ Akcje do wykonania na stronie:
 ## Kliknięcie opcji "ludzika"
 Na stronie Hackyeah, zrobienie takiego dużego czatu itp. (Linh wie xd)
 
-## Duży prompt na OLX, żeby zmienić hasło
+# Landing page Wsparcio
+
+Tu po prostu wklejamy URL (pokazowo niech to będzie 'olx.pl').
+
+Chat nam zwraca:
+
+```sh
+Kluczowe informacje:
+- Opis: Serwis ogłoszeniowy umożliwiający kupno, sprzedaż i wymianę towarów oraz usług między użytkownikami
+- Kategorie ogłoszeń: Motoryzacja, Nieruchomości, Praca, Elektronika, Dom i Ogród, Moda, Dla Dzieci, Sport i Hobby, Zwierzęta, Usługi i Firmy, Muzyka i Edukacja
+- Aplikacja mobilna: Dostępna na iOS i Android
+
+Możliwe akcje:
+- Rejestracja 
+- Logowanie
+```
+
+User promputuje chatbot tekstem: zaloguj się przy loginem "marek123" oraz hasłem "hasło123". Następnie zmień hasło na "hasło456".
+
+Chatbot odpowiada "Wykonano, hasło dla Twojego konta zostało zmienione.
+
+
+
 
 
 
