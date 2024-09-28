@@ -9,3 +9,5 @@ Project Design oraz MVP agenta AI (według definicji https://www.aidevs.pl/) prz
 a interfejsem graficznym dla końcowego użytkownika jest chatbot pojawiający się na każdej odwiedzanej stronie. Agent przystosowany jest do komunikacji z użytkownikami o ograniczonej dostępności. 
 
 Rozwiązanie zaimplementowanie zostanie jako wtyczka do przeglądarki.
+
+
